@@ -66,5 +66,5 @@ update-manifest:
         base: v2.0-rc #baseとなるブランチ
         draft: true #PRをdraftとして作成
         body: |
-        # Changes
-        - Update `fastapi-sample` image
+          # Changes
+          - Update fastapi-sample image
